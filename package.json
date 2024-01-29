@@ -6,6 +6,7 @@
   "author": "Aditya Bulusu",
   "license": "MIT",
   "private": false,
+  "repository": "https://github.com/aditya-b/react-iconsax",
   "files": [
     "dist"
   ],
