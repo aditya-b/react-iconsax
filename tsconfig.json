@@ -9,6 +9,7 @@
       "es2015"
     ],
     "outDir": "dist",
+    "declaration": true,
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -29,7 +30,7 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": [
-    "src",
+    "src"
   ],
   "exclude": [
     "node_modules",

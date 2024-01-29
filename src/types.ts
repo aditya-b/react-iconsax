@@ -1,5 +1,4 @@
 import { SVGAttributes, Ref } from 'react';
-import { iconMap } from './icons/iconMap';
 
 export interface ISaxIconProps extends SVGAttributes<SVGElement> {
   variant?: 'Outline' | 'Bold' | 'TwoTone';
