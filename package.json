@@ -1,21 +1,23 @@
 {
   "name": "@bicycle-ui/iconsax-react",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "React components for iconsax icons",
-  "main": "dist/index.d.ts",
   "author": "Aditya Bulusu",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
   "license": "MIT",
   "private": false,
   "repository": "https://github.com/aditya-b/react-iconsax",
-  "files": [
-    "dist",
-    "package.json",
-    "README.md",
-    "LICENSE"
-  ],
   "peerDependencies": {
     "react": "^17.0.2",
-    "react-dom": "^17.0.2" 
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.2",
