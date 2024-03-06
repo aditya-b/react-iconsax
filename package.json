@@ -1,6 +1,6 @@
 {
   "name": "@bicycle-ui/iconsax-react",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "React components for iconsax icons",
   "author": "Aditya Bulusu",
   "main": "./dist/index.js",

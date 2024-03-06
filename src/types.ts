@@ -9,6 +9,7 @@ export interface ISaxIconProps extends SVGAttributes<SVGElement> {
 
 export interface ISaxIconWrapperProps extends ISaxIconProps {
   iconName: ISaxIconName;
+  useAltIfNoMatch?: boolean;
 }
 
 export type ISaxIconName = 
